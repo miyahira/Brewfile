@@ -3,35 +3,36 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install alfred
+brew brew-cask
+cask alfred
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 # Other Homebrew packages
-install binutils
-install coreutils
-install findutils
-install freetype
-install gdbm
-install imagemagick
-install jpeg
-install libao
-install libogg
-install libpng
-install libtool
-install libvorbis
-install nmap
-install node
-install openssl
-install pcre
-install pdfcrack
-install tig
-install unrar
-install vorbis-tools
-install zsh
+brew binutils
+brew coreutils
+brew docker
+brew findutils
+brew freetype
+brew gdbm
+brew imagemagick
+brew jpeg
+brew libao
+brew libogg
+brew libpng
+brew libtool
+brew libvorbis
+brew nmap
+brew node
+brew openssl
+brew pcre
+brew pdfcrack
+brew tig
+brew unrar
+brew vorbis-tools
+brew zsh
 
 # App Store applications
 appstore Cornerstone
